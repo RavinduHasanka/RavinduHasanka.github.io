@@ -305,6 +305,8 @@ section .title::after{
 .education .education-content .right a:hover{
     color: crimson;
     background: none;
+    font-style:oblique
+}
 
 /* services section styling */
 .services, .teams{
